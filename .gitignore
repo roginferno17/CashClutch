@@ -1,0 +1,19 @@
+# Ignore all source code and development artifacts
+*.apk
+*.zip
+*.tar.gz
+*.py
+*.dart
+*.kt
+*.js
+*.env
+*.log
+*.jks
+*.properties
+.idea/
+.vscode/
+build/
+node_modules/
+arbpay_apk/
+cloudflare_worker/
+assets/

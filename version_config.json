@@ -1,0 +1,7 @@
+{
+  "min_version": "3.3.0",
+  "latest_version": "3.4.0",
+  "download_url": "https://github.com/roginferno17/CashClutch/releases/latest",
+  "gateway_url": "https://cashclutch-gateway.roginferno17.workers.dev",
+  "message": "CashClutch v3.4.0 is available with improved performance and stability."
+}
